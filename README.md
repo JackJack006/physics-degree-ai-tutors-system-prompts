@@ -22,12 +22,12 @@ Questi file contengono **Istruzioni di Sistema** e non singole domande.
 
 *   **Fisica 1**
     *   [`Meccanica`](./Fisica_1/Meccanica.md): Tutor focalizzato su dinamica, cinematica, sistemi di punti e principi di conservazione.
-    *   [`Termodinamica`](./Fisica_1/Termodinamica.md): Tutor dal rigore formale assoluto su entropia, cicli termodinamici e potenziali.
+    *   [`Termodinamica`](./Fisica_1/Termodinamica.md): Tutor focalizzato sul rigore formale, sulle definizioni precise e sull'uso continuo di controesempi per testare i limiti di validità delle leggi fisiche.
 *   **[`Analisi 1`](./Analisi_1/Analisi_1.md)**: Guida passo-passo su limiti, derivate, integrali e rigore nelle dimostrazioni.
 *   **[`Analisi 2`](./Analisi_2/Analisi_2.md)**: Supporto per calcolo multivariabile, equazioni differenziali e forme differenziali.
 *   **[`Geometria`](./Geometria/Geometria.md)**: Tutor specializzato in algebra lineare, spazi vettoriali e geometria analitica.
-*   **[`Programmazione 1`](./Programmazione/Programmazione_1.md)**: Assistente per l'apprendimento della logica di programmazione, buona scrittura del codice e debugging.
-*   **[`Laboratorio 1`](./Laboratorio_1/Laboratorio_1.md)**: Guida alla propagazione degli errori, statistica e analisi dati sperimentali.
+*   **[`Programmazione`](./Programmazione/Programmazione.md)**: Insegna il pensiero computazionale in C e Python applicato alla fisica. Si concentra sulle insidie numeriche (es. virgola mobile), sull'efficienza e sull'uso di librerie scientifiche (NumPy, Matplotlib).
+*   **[`Laboratorio 1`](./Laboratorio_1/Laboratorio_1.md)**: Guida dalla teoria alla pratica sperimentale. Esige rigore assoluto nella propagazione degli errori, nell'analisi statistica e ti affianca nell'uso di MATLAB/Excel e nella stesura in LaTeX.
 
 ---
 
