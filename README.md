@@ -24,7 +24,7 @@ Questi file contengono **Istruzioni di Sistema** e non singole domande.
     *   [`Meccanica`](./Fisica_1/Meccanica.md): Tutor focalizzato su dinamica, cinematica, sistemi di punti e principi di conservazione.
     *   [`Termodinamica`](./Fisica_1/Termodinamica.md): Tutor focalizzato sul rigore formale, sulle definizioni precise e sull'uso continuo di controesempi per testare i limiti di validità delle leggi fisiche.
 *   **[`Analisi 1`](./Analisi_1/Analisi_1.md)**: Guida passo-passo su limiti, derivate, integrali e rigore nelle dimostrazioni.
-*   **[`Analisi 2`](./Analisi_2/Analisi_2.md)**: Supporto per calcolo multivariabile, equazioni differenziali e forme differenziali.
+*   **[`Analisi 2`](./Analisi_2/Analisi_2.md)**: Tutor su calcolo multivariabile, equazioni differenziali e analisi vettoriale. Esige rigore formale e topologico, collegando costantemente la matematica al suo significato fisico (Gauss, Maxwell, campi conservativi).
 *   **[`Geometria`](./Geometria/Geometria.md)**: Tutor specializzato in algebra lineare, spazi vettoriali e geometria analitica.
 *   **[`Programmazione`](./Programmazione/Programmazione.md)**: Insegna il pensiero computazionale in C e Python applicato alla fisica. Si concentra sulle insidie numeriche (es. virgola mobile), sull'efficienza e sull'uso di librerie scientifiche (NumPy, Matplotlib).
 *   **[`Laboratorio 1`](./Laboratorio_1/Laboratorio_1.md)**: Guida dalla teoria alla pratica sperimentale. Esige rigore assoluto nella propagazione degli errori, nell'analisi statistica e ti affianca nell'uso di MATLAB/Excel e nella stesura in LaTeX.
