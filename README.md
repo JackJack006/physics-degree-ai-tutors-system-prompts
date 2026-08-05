@@ -33,6 +33,4 @@ Questi file contengono **Istruzioni di Sistema** e non singole domande.
 
 ## ⚖️ Licenza
 
-## ⚖️ Licenza
-
 Questo progetto è distribuito sotto licenza **MIT**. Sentiti libero di utilizzare, modificare e condividere questi prompt come preferisci, semplicemente mantenendo l'attribuzione originale!
